@@ -15,7 +15,7 @@ Links para o github de cada integrante:
 
 Julia Maria -\
 Igor Ribeiro - github.com/Igorribeiro27\
-Larissa Guilherme da Costa -\
+Larissa Guilherme da Costa -https://github.com/larissaguilhermecosta15061998-gif\
 Rafael SIlva Ramos Morais Ferraz - github.com/Feralkue\
 Thomas -\
 Yan Ramiles -
