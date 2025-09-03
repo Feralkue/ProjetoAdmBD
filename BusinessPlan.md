@@ -1,30 +1,13 @@
-# ProjetoAdmBD
+#Business Plan
 
-Grupo 6 - Atendimento ao cliente(HelpDesk)
+Nome do sistema:\
 
-Integrantes: 
+Tipo de sistema: CRM\
 
-Julia Maria - a definir\
-Igor Ribeiro -a definir\
-Larisssa Guilher da Costa -a definir\
-Rafael Silva Ramos Morais Ferraz - a definir\
-Thomaz - a definir\
-Yan Ramiles - a definir
+Módulos do sistema: \
+Registro de chamados: tem como funcão registrar chamados feitos pelos usuários do sistema.\
+SLA: tem como função registrar as métricas de qualidade do atendimento.\
+Histórico de atendimento: tem como função registrar as ações feitas pelo operador durarnte o atendimento.\
+Feedback do cliente: tem como função registrar avaliação sobre o atendimento fornecido.\
 
-Links para o github de cada integrante:
-
-Julia Maria -\
-Igor Ribeiro - github.com/Igorribeiro27\
-Larissa Guilherme da Costa -\
-Rafael SIlva Ramos Morais Ferraz - github.com/Feralkue\
-Thomas -\
-Yan Ramiles -
-
-Descrição do sistema: O sistema de Help Desk vai contar com os seguintes módulos:\
-Registro de chamadas\
-SLA\
-Histórico de chamadas e feedback do cliente
-
-Justificativa da escolha: 
-
-Público-alvo: Empresas que fornecem serviços a terceiros.
+Diferenciais do sistema: nosso sistema se diferencia pela facilidade de navegação e por integrar todos os módulos de forma prática.\
