@@ -1,10 +1,10 @@
 #Business Plan
 
-Nome do sistema:\
+Nome do sistema:
 
-Tipo de sistema: CRM\
+Tipo de sistema: CRM
 
-Módulos do sistema: \
+Módulos do sistema: 
 Registro de chamados: tem como funcão registrar chamados feitos pelos usuários do sistema.\
 SLA: tem como função registrar as métricas de qualidade do atendimento.\
 Histórico de atendimento: tem como função registrar as ações feitas pelo operador durarnte o atendimento.\
