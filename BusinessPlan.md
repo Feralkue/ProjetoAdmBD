@@ -70,31 +70,35 @@ Salesforce: avaliado como opção futura.
 
   Esse é um mercado com um nível de demanda alto( sempre tem demanda) e que está sempre em crescimento, pois novas empresas sempre estão surgindo e buscando novas tecnologias, porém é um mercado que já tem varias empresas bem estabelecidas, por exemplo a SalesForce que é muito popular nas grandes empresas.
 
-3. Analise de marcado
-     Tendências do Setor
-O mercado de TI no Brasil está crescendo bastante, cerca de 13% em 2025.
-Empresas estão cada vez mais usando sistemas de helpdesk na nuvem com suporte remoto e automação.
-Ferramentas que facilitam o atendimento e agilizam a resolução dos problemas são muito valorizadas.
-Concorrentes
-Diretos: Freshdesk, Zendesk, LiveAgent e Jira Service Management — são plataformas de helpdesk completas.
-Indiretos: RD Station, Conta Azul, Omie — oferecem outras soluções para empresas, mas não focam só em helpdesk.
-Cliente Ideal (Persona)
-Nome: Carlos, 35 anos, gerente de TI.
-Precisa de um sistema para abrir e gerenciar chamados, acompanhar prazos (SLA) e acessar remotamente computadores dos usuários.
-Quer melhorar a rapidez do suporte e integrar essa ferramenta com outras que a empresa usa.
+Analise de mercado\
+Tendências do Setor\
+O mercado de TI no Brasil está crescendo bastante, cerca de 13% em 2025.\
+Empresas estão cada vez mais usando sistemas de helpdesk na nuvem com suporte remoto e automação.\
+Ferramentas que facilitam o atendimento e agilizam a resolução dos problemas são muito valorizadas.\
+
+Concorrentes\
+Diretos: Freshdesk, Zendesk, LiveAgent e Jira Service Management — são plataformas de helpdesk completas.\
+Indiretos: RD Station, Conta Azul, Omie — oferecem outras soluções para empresas, mas não focam só em helpdesk.\
+
+Cliente Ideal (Persona)\
+Nome: Carlos, 35 anos, gerente de TI.\
+Precisa de um sistema para abrir e gerenciar chamados, acompanhar prazos (SLA) e acessar remotamente computadores dos usuários.\
+Quer melhorar a rapidez do suporte e integrar essa ferramenta com outras que a empresa usa.\
+
 Oportunidades e Ameaças
 Oportunidades:
-Crescimento do mercado de TI.
-Demanda por sistemas de helpdesk na nuvem com acesso remoto.
-Empresas querem melhorar o atendimento e reduzir custos.
+Crescimento do mercado de TI.\
+Demanda por sistemas de helpdesk na nuvem com acesso remoto.\
+Empresas querem melhorar o atendimento e reduzir custos.\
+
 Ameaças:
-Concorrência forte de grandes empresas internacionais.
-Dificuldade de integrar sistemas diferentes.
-Necessidade de sempre atualizar e inovar.
-Dados Importantes
-Mercado de TI no Brasil vai crescer 13% em 2025 (fonte: gpnet.com.br).
-Mercado de software cresce 9,5% em 2025 (fonte: sindpd-mt.org.br).
-Uso de helpdesk na nuvem e com suporte remoto está aumentando muito (fonte: globalgrowthinsights.com
+Concorrência forte de grandes empresas internacionais.\
+Dificuldade de integrar sistemas diferentes.\
+Necessidade de sempre atualizar e inovar.\
+Dados Importantes\
+Mercado de TI no Brasil vai crescer 13% em 2025 (fonte: gpnet.com.br).\
+Mercado de software cresce 9,5% em 2025 (fonte: sindpd-mt.org.br).\
+Uso de helpdesk na nuvem e com suporte remoto está aumentando muito (fonte: globalgrowthinsights.com\
 
 
 
