@@ -1,5 +1,4 @@
-'''mermaid
- C4Context
+C4Context
     title System Context Diagram for Help Desk Environment
 
     Enterprise_Boundary(boundary1, "Help Desk Environment") {
@@ -22,4 +21,3 @@ UpdateRelStyle(helpdesk, messaging, $textColor="Black", $lineColor="Black", $off
 UpdateRelStyle(helpdesk, communication, $textColor="Black", $lineColor="Black", $offsetX="-27", $offsetY="10")
 UpdateRelStyle(messaging, user, $textColor="Black", $lineColor="Black", $offsetX="-99")
 UpdateLayoutConfig($c4ShapeInRow="2", $c4BoundaryInRow="1")
-'''
