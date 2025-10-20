@@ -1,0 +1,90 @@
+Plano Financeiro 
+
+Este capítulo apresenta uma estimativa detalhada do investimento inicial, custos operacionais mensais, projeções de receita ao longo de um ano, bem como análise de planos financeiros para o sistema ERP/CRM em desenvolvimento. Todas as informações foram atualizadas com base em dados de mercado de 2024 e adaptadas ao contexto acadêmico. 
+
+
+Investimento Inicial 
+
+Descrição, Quantidade, Valor Unitário (R$), Custo Total (R$) 
+
+Desenvolvimento de software (600 horas a R$ 80/h) 600 horas / 80,00 / 48.000,00
+Infraestrutura de hospedagem em nuvem (3 meses) 3 meses / 200,00 / 600,00
+Ferramentas de design, ambiente de desenvolvimento 1 conjunto / 1.000,00 / 1.000,00
+Campanha inicial de marketing 1 campanha / 3.000,00 / 3.000,00
+Registro de domínio e identidade visual 1 pacote / 500,00 / 500,00 
+
+Custo Total (R$)  53.100,00 
+
+Notas:
+- O custo médio por hora dos desenvolvedores PJ Pleno no Brasil varia entre R$ 60,00 e R$ 90,00 (Crowd, 2024). 
+
+- Hospedagem em nuvem básica tem custo médio mensal entre R$ 150,00 e R$ 250,00 (Melhores Hospedagem, 2024).
+
+
+
+Custos Operacionais Mensais 
+
+Descrição Valor (R$) 
+
+Hospedagem em nuvem (VPS ou AWS básica) 200,00
+Manutenção e evolução do sistema (40 h/mês) 3.200,00
+Suporte e atendimento ao cliente 1.000,00
+Marketing digital (anúncios e redes sociais) 1.500,00
+Custos administrativos diversos 500,00
+Total 6.400,00 
+
+Notas:
+Custos calculados com base em médias de pequenas empresas SaaS no Brasil (RD Station, Omie, Conta Azul). Contabilidade online no Brasil varia entre R$ 200,00 e R$ 500,00 mensais (Contabilizei, 2024).
+
+
+
+Modelo de Receita 
+
+Plano Básico: R$ 99,00/mês – indicado para microempresas;
+Plano Profissional: R$ 199,00/mês – direcionado a pequenas empresas;
+Plano Empresarial: R$ 299,00/mês – para empresas médias.
+A distribuição estimada de clientes é: 50% Plano Profissional, 30% Básico e 20% Empresarial, resultando em um ticket médio aproximado de R$ 189,00 mensais.
+
+
+
+Projeção de Receita para 12 Meses 
+
+Mês Clientes Receita Estimada (R$)
+1 10 1.890,00
+3 30 5.670,00
+6 60 11.340,00
+9 90 17.010,00
+12 120 22.680,00
+*Projeção baseada no crescimento anual do mercado de software no Brasil (IDC Brasil, 2023).
+
+
+
+Ponto de Equilíbrio Financeiro 
+
+O ponto de equilíbrio será atingido com aproximadamente 34 clientes pagantes, conforme fórmula abaixo:
+
+Ponto de Equilíbrio = Custos Mensais / Ticket Médio = R$6.400 / R$189 ≈ 34 clientes
+
+Retorno sobre Investimento (ROI) Estimado no Primeiro Ano 
+
+Investimento inicial R$ 53.100,00
+Receita anual estimada R$ 132.000,00
+Custo operacional anual R$ 76.800,00
+Lucro projetado R$ 55.200,00
+ROI no primeiro ano 104% 
+
+
+
+Análise de Cenários Financeiros 
+
+Cenário Clientes (Mês 12) Receita Mês 12 (R$) Considerações
+Otimista 150 28.350,00 Marketing eficaz e de alta retenção
+Realista 120 22.680,00 Crescimento estável conforme plano
+Pessimista 80 15.120,00 Crescimento lento 
+
+Referências
+Multidão. Quanto custa contratar um programador no Brasil. 2024.
+Melhores Hospedagem. Hospedagem Cloud: valores e comparativos. 2024.
+Conta Azul, Omie, Estação RD. Tabela de preços dos planos SaaS. 2024.
+Contabilizei. Planos de contabilidade online para empresas. 2024.
+IDC Brasil. Mercado de software cresce 20% ao ano. 2023.
