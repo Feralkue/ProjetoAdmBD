@@ -18,7 +18,7 @@ Igor Ribeiro - github.com/Igorribeiro27\
 Larissa Guilherme da Costa -\
 Rafael SIlva Ramos Morais Ferraz - github.com/Feralkue\
 Thomas -\
-Yan Ramiles -
+Yan Ramiles - https://github.com/YanRamiles 
 
 Descrição do sistema: O sistema de Help Desk vai contar com os seguintes módulos:\
 Registro de chamadas\
